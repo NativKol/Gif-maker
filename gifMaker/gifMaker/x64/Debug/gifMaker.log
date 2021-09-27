@@ -1,0 +1,7 @@
+﻿  LINKEDLIST.c
+C:\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLIST.c(8,1): warning C4005: 'TRUE': macro redefinition
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLISTH.h(5): message : see previous definition of 'TRUE'
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLIST.c(48,11): warning C4098: 'getData': 'void' function returning a value
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLIST.c(217,25): warning C4047: '=': 'FrameNode *' differs in levels of indirection from 'int'
+  gifMaker.vcxproj -> C:\Users\nativ\source\repos\gifMaker\x64\Debug\gifMaker.exe

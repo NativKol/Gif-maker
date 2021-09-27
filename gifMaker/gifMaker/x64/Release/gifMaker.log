@@ -1,0 +1,30 @@
+﻿  actionsSwitch.c
+C:\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+C:\Users\nativ\source\repos\gifMaker\gifMaker\actionsSwitch.c(7,1): warning C4005: 'LEN': macro redefinition
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLISTH.h(6): message : see previous definition of 'LEN'
+C:\Users\nativ\source\repos\gifMaker\gifMaker\actionsSwitch.c(9,1): warning C4005: 'TRUE': macro redefinition
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLISTH.h(5): message : see previous definition of 'TRUE'
+C:\Users\nativ\source\repos\gifMaker\gifMaker\actionsSwitch.c(47,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nativ\source\repos\gifMaker\gifMaker\actionsSwitch.c(114,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nativ\source\repos\gifMaker\gifMaker\actionsSwitch.c(124,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nativ\source\repos\gifMaker\gifMaker\actionsSwitch.c(130,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nativ\source\repos\gifMaker\gifMaker\actionsSwitch.c(63,7): warning C4101: 'line': unreferenced local variable
+  gifMaker.c
+C:\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+C:\Users\nativ\source\repos\gifMaker\gifMaker\gifMaker.c(27,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  LINKEDLIST.c
+C:\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLIST.c(8,1): warning C4005: 'TRUE': macro redefinition
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLISTH.h(5): message : see previous definition of 'TRUE'
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLIST.c(22,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLIST.c(48,11): warning C4098: 'getData': 'void' function returning a value
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLIST.c(42,19): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLIST.c(51,9): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLIST.c(53,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLIST.c(54,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLIST.c(55,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLIST.c(79,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLIST.c(118,2): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLIST.c(121,2): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLIST.c(217,25): warning C4047: '=': 'FrameNode *' differs in levels of indirection from 'int'
+C:\Users\nativ\source\repos\gifMaker\gifMaker\LINKEDLIST.c(313,9): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
